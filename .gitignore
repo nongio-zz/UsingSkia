@@ -1,3 +1,4 @@
 tools/
 third_party/
+out/
 *.swp
