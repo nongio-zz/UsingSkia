@@ -5,7 +5,7 @@
         'Debug': { },
         'Release': { }
       },
-      'target_name': 'using_skia',
+      'target_name': 'helloskia',
       'type': 'executable',
       'dependencies': [
         'third_party/skia/gyp/skia_lib.gyp:skia_lib'
@@ -15,10 +15,9 @@
         'third_party/skia/include/core',
       ],
       'sources': [
-        'app/main.cpp'
+          'app/main.cpp'
       ],
       'ldflags': [
-        
       ],
       'cflags': [
         '-Werror', '-W', '-Wall', '-Wextra', '-Wno-unused-parameter', '-g', '-O0'
