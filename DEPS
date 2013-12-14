@@ -2,7 +2,7 @@ vars = {
   "root_dir": "src",
   "googlecode_url": "http://%s.googlecode.com/svn",
 
-  "skia_revision": "12555",
+  "skia_revision": "12684",
 }
 
 deps = {
